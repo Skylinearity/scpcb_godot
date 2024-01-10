@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="HelpEntry" load_steps=2 format=3 uid="uid://dsluwxanpdbtu"]
+
+[ext_resource type="Script" path="res://Scripts/HelpEntry.gd" id="1_ufg7k"]
+
+[resource]
+script = ExtResource("1_ufg7k")
+command = "gamma"
+text = "Sets the gamma correction.
+Should be set to a value between 0.0 and 2.0.
+Default is 1.0."

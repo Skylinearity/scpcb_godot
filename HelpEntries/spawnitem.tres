@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="HelpEntry" load_steps=2 format=3 uid="uid://2ioix6wemdpj"]
+
+[ext_resource type="Script" path="res://Scripts/HelpEntry.gd" id="1_56rqt"]
+
+[resource]
+script = ExtResource("1_56rqt")
+command = "spawnitem"
+text = "Spawns an item at the player's location.
+Any name that can appear in your inventory
+is a valid parameter.
+Example: spawnitem Key Card Omni"

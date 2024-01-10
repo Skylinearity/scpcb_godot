@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="HelpEntry" load_steps=2 format=3 uid="uid://0468bv2eo520"]
+
+[ext_resource type="Script" path="res://Scripts/HelpEntry.gd" id="1_iyiu6"]
+
+[resource]
+script = ExtResource("1_iyiu6")
+command = "teleport"
+text = "Teleports the player to the first instance
+of the specified room. Any room that appears
+in rooms.ini is a valid parameter."

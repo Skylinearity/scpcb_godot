@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="HelpEntry" load_steps=2 format=3 uid="uid://to1pmgcyxxg5"]
+
+[ext_resource type="Script" path="res://Scripts/HelpEntry.gd" id="1_ohb6x"]
+
+[resource]
+script = ExtResource("1_ohb6x")
+command = "playmusic"
+text = "Will play tracks in .ogg/.wav format
+from \"SFX\\\\Music\\\\Custom\"."

@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="HelpEntry" load_steps=2 format=3 uid="uid://cxffejmq17rb7"]
+
+[ext_resource type="Script" path="res://Scripts/HelpEntry.gd" id="1_7cg7s"]
+
+[resource]
+script = ExtResource("1_7cg7s")
+command = "wireframe"
+text = "Toggles wireframe, unless a valid parameter
+is specified (on/off).
+Allows only the edges of geometry to be rendered,
+making everything else: transparent."

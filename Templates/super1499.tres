@@ -1,0 +1,22 @@
+[gd_resource type="Resource" script_class="ItemTemplates" load_steps=2 format=3 uid="uid://d0xmbcjhvrnhs"]
+
+[ext_resource type="Script" path="res://Scripts/ItemTemplates.gd" id="1_invwm"]
+
+[resource]
+script = ExtResource("1_invwm")
+name = "SCP-1499"
+tempname = "super1499"
+objpath = "GFX\\items\\SCP-1499.b3d"
+invimgpath = "GFX\\items\\INVscp1499.jpg"
+imgpath = ""
+scale = 0.023
+texpath = ""
+invimg2 = 0
+sound = 2
+found = 0
+obj = 0
+parentobjpath = ""
+invimg = 0
+img = 0
+isAnim = 0
+tex = 0

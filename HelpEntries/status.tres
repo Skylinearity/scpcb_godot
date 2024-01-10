@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="HelpEntry" load_steps=2 format=3 uid="uid://brbexc4fyrcv0"]
+
+[ext_resource type="Script" path="res://Scripts/HelpEntry.gd" id="1_s2wwl"]
+
+[resource]
+script = ExtResource("1_s2wwl")
+command = "status"
+text = "Prints player, camera, and room information."

@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="HelpEntry" load_steps=2 format=3 uid="uid://neabke3wkh6y"]
+
+[ext_resource type="Script" path="res://Scripts/HelpEntry.gd" id="1_pryyg"]
+
+[resource]
+script = ExtResource("1_pryyg")
+command = "stopsound"
+text = "Stops all currently playing sounds."

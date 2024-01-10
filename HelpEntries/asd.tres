@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="HelpEntry" load_steps=2 format=3 uid="uid://cl4vcij3robbe"]
+
+[ext_resource type="Script" path="res://Scripts/HelpEntry.gd" id="1_hs7ms"]
+
+[resource]
+script = ExtResource("1_hs7ms")
+command = "asd"
+text = "Actives godmode, noclip, wireframe and
+sets fog distance to 20 near, 30 far"

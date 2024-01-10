@@ -1,0 +1,22 @@
+[gd_resource type="Resource" script_class="ItemTemplates" load_steps=2 format=3 uid="uid://bxw7nx1sppvc4"]
+
+[ext_resource type="Script" path="res://Scripts/ItemTemplates.gd" id="1_y4xsy"]
+
+[resource]
+script = ExtResource("1_y4xsy")
+name = "SCP-860"
+tempname = "scp860"
+objpath = "GFX\\items\\key.b3d"
+invimgpath = "GFX\\items\\INVkey.jpg"
+imgpath = ""
+scale = 0.001
+texpath = ""
+invimg2 = 0
+sound = 3
+found = 0
+obj = 0
+parentobjpath = ""
+invimg = 0
+img = 0
+isAnim = 0
+tex = 0

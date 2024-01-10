@@ -1,0 +1,23 @@
+[gd_resource type="Resource" script_class="ItemTemplates" load_steps=2 format=3 uid="uid://dnduf4ys8um2r"]
+
+[ext_resource type="Script" path="res://Scripts/ItemTemplates.gd" id="1_wmf0c"]
+
+[resource]
+script = ExtResource("1_wmf0c")
+name = "Level 3 Key Card"
+tempname = "key3"
+objpath = "GFX\\items\\keycard.x"
+invimgpath = "GFX\\items\\INVkey3.jpg"
+imgpath = ""
+scale = 0.001
+texpath = "GFX\\items\\keycard3.jpg"
+invimg2 = 0
+sound = 0
+found = 0
+obj = 0
+parentobjpath = ""
+invimg = 0
+entity_color = Color(0, 0, 0, 1)
+img = 0
+isAnim = 0
+tex = 0

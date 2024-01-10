@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="HelpEntry" load_steps=2 format=3 uid="uid://tnu35c6k0ilc"]
+
+[ext_resource type="Script" path="res://Scripts/HelpEntry.gd" id="1_xep68"]
+
+[resource]
+script = ExtResource("1_xep68")
+command = "spawn"
+text = "Spawns an NPC at the player's location.
+Valid parameters are:
+008zombie / 049 / 049-2 / 066 / 096 / 106 / 173
+/ 178-1 / 372 / 513-1 / 966 / 1499-1 / class-d
+/ guard / mtf / apache / tentacle"

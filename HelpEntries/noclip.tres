@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="HelpEntry" load_steps=2 format=3 uid="uid://bd5i7ra2kqnmd"]
+
+[ext_resource type="Script" path="res://Scripts/HelpEntry.gd" id="1_tm2sh"]
+
+[resource]
+script = ExtResource("1_tm2sh")
+command = "noclip"
+text = "Toggles noclip, unless a valid parameter
+is specified (on/off).
+Allows the camera to move in any direction while
+bypassing collision."

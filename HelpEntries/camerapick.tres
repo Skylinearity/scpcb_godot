@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="HelpEntry" load_steps=2 format=3 uid="uid://cyqc7v7aeck4h"]
+
+[ext_resource type="Script" path="res://Scripts/HelpEntry.gd" id="1_y61k0"]
+
+[resource]
+script = ExtResource("1_y61k0")
+command = "camerapick"
+text = "Prints the texture name and coordinates of
+the model the camera is pointing at."

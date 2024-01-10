@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="HelpEntry" load_steps=2 format=3 uid="uid://h4na8t53ihnh"]
+
+[ext_resource type="Script" path="res://Scripts/HelpEntry.gd" id="1_btr17"]
+
+[resource]
+script = ExtResource("1_btr17")
+command = "revive"
+text = "Resets the player's death timer after the dying
+animation triggers.
+Does not affect injury, blood loss
+or 008 infection values."
