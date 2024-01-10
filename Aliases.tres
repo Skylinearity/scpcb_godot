@@ -1,0 +1,15 @@
+[gd_resource type="Resource" script_class="CommandAlias" load_steps=2 format=3 uid="uid://v6o3kg5nniyp"]
+
+[ext_resource type="Script" path="res://HelpEntries/CommandAlias.gd" id="1_8ssql"]
+
+[resource]
+script = ExtResource("1_8ssql")
+aliases = {
+"fly": "noclip",
+"god": "godmode",
+"resurrect": "revive",
+"scp-420-j": "420",
+"stfu": "stopsound",
+"undead": "revive",
+"weed": "420"
+}
